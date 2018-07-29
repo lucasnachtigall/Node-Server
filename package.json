@@ -1,21 +1,21 @@
 {
-  "name": "teamup",
+  "name": "nodeserver",
   "version": "1.0.0",
-  "description": "TeamUp",
+  "description": "Node-Server",
   "main": "app.js",
   "scripts": {
     "start": "node app"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucasnachtigall/TeamUp.git"
+    "url": "git+https://github.com/lucasnachtigall/Node-Server.git"
   },
   "author": "Lucas Nachtigall",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lucasnachtigall/TeamUp/issues"
+    "url": "https://github.com/lucasnachtigall/Node-Server/issues"
   },
-  "homepage": "https://github.com/lucasnachtigall/TeamUp#readme",
+  "homepage": "https://github.com/lucasnachtigall/Node-Server#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
